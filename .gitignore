@@ -118,3 +118,5 @@ handy_examples_disertatie/*
 
 .idea
 __pycache__/
+*.ipynb
+.ipynb_checkpoints
